@@ -7,7 +7,7 @@
 # Curriculum vitae
 ***
 # Presentations
-Below are download liks for presentations related to thirving in academia, from the UC Berkeley Department of Integrative Biology class IB 305 Academic Survivorship. See grant writing presentations on the [grant writing page](https://academic-survivorship.github.io/grantwriting/){:target="_blank"} of this course website.
+Below are download liks for presentations related to thirving in academia, from the UC Berkeley Department of Integrative Biology class IB 305 Thriving in Academia. See grant writing presentations on the [grant writing page](https://academic-survivorship.github.io/grantwriting/){:target="_blank"} of this course website.
 
 * [Collaborations](files/presentations/Week10_Collaborations.pdf){:target="_blank"}
 * [The Publishing Pipeline](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
