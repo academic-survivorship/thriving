@@ -1,7 +1,6 @@
 # Thriving
 # Header
 # Header
-# Additional resources
 
 ***
 # Presentations
@@ -11,9 +10,11 @@ Below are download liks for presentations related to thirving in academia, from 
 * [The Publishing Pipeline](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
 
 ***
-# References
-***
 # Additional resources
+
+***
+# References
+
 
 # Copyright
 All material preseneted is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
