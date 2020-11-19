@@ -1,4 +1,4 @@
-# Thriving
+# Course resources
 # Oral presentations
 # Work-life balance
 # Collaborations
