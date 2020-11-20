@@ -39,12 +39,14 @@
 # Week 11: 
 ## Mentoring- A two-way street
 ***
-# Week 12: Publishing pipeline
+# Week 12: 
+## Publishing pipeline
 * [Presentation: The Publishing Pipeline](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
 
 ***
 ***
-# Week 13: CV Workshop
+# Week 13: 
+## CV Workshop
 
 ***
 # Additional resources
