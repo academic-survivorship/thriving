@@ -32,11 +32,8 @@
 * [The Publishing Pipeline](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
 
 ***
-
-
-
-
-
+***
+# Week 13: CV Workshop
 
 ***
 # Additional resources
