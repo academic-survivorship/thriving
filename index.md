@@ -37,7 +37,7 @@
 
 ***
 # Week 11: 
-## Mentoring- A two-way street
+## Mentoring: A two-way street
 ***
 # Week 12: 
 ## Publishing pipeline
