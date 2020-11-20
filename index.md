@@ -1,6 +1,7 @@
 # Course resources
 ***
-# Week 1: Developing a research idea
+# Week 1: 
+##Developing a research idea
 * [Developing an Idea](files/presentations/Week01_DevelopingAnIdea.pdf){:target="_blank"}
 
 ***
