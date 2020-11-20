@@ -1,16 +1,41 @@
 # Course resources
-# Oral presentations
-# Work-life balance
-# Collaborations
-# Mentoring
-# Publishing pipeline
-# Curriculum vitae
 ***
-# Presentations
-Below are download liks for presentations related to thirving in academia, from the UC Berkeley Department of Integrative Biology class IB 305 Thriving in Academia. See grant writing presentations on the [grant writing page](https://academic-survivorship.github.io/grantwriting/){:target="_blank"} of this course website.
+# Week 1
+* [Developing an Idea](files/presentations/Week01_DevelopingAnIdea.pdf){:target="_blank"}
 
+***
+# Week 2
+***
+# Week 3
+***
+# Week 4
+***
+# Week 5
+***
+# Week 6
+* [The Art of Scientific Writing](files/presentations/Week06_TheArtofScientificWriting.pdf){:target="_blank"}
+
+***
+# Week 7
+***
+# Week 8
+***
+# Week 9
+***
+# Week 10
 * [Collaborations](files/presentations/Week10_Collaborations.pdf){:target="_blank"}
+
+***
+# Week 11
+***
+# Week 12
 * [The Publishing Pipeline](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
+***
+
+
+
+
+
 
 ***
 # Additional resources
