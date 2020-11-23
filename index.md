@@ -27,6 +27,7 @@
 ***
 # Week 8: 
 ## Oral presentation skills
+ * [Prsentation: Oral Presentation Skills](files/presentations/Week8_OralPresentations.pdf){:target="_blank"}
 ***
 # Week 9: 
 ## Building a professional network
