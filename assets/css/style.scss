@@ -343,12 +343,21 @@ footer {
   section {
     margin-top: 5px;
   }
+  
+ #banner {
+    width: 100%;
 
-  #banner { display: none;}
-  header ul {
-    display:none;
+    .downloads {
+        margin-right: 60px;
+      }
+
+    .fork {
+    }
+
+    #logo {
+      margin-right: 15px;
+    }
   }
-}
 
 @media print {
   body {
