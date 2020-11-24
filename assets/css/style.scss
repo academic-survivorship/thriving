@@ -323,47 +323,38 @@ footer {
 }
 
 @media print, screen and (max-width: 480px) {
- body {
-    word-wrap:break-word;
+  body {
   }
 
-  header {
-    padding:20px 20px;
-    margin: 0;
+  header{
+    position: relative;
+    padding: 5px 0px;
+    min-height: 0px;
 
     h1 {
-      font-size: 32px;
+      font-size: 24px;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
       -o-text-overflow: ellipsis;
       -ms-text-overflow: ellipsis;
     }
-
-    p { display: none;}
   }
-
-  #banner {
-    top: 80px;
-
-    .fork {
-      float: left;
-      display: inline-block;
-      margin-left: 0px;
-    position:fixed;
-    left:20px;
-
-      }
-  }
-
   section {
-    margin-top: 130px;
-    margin-bottom: 0px;
-    width: auto;
+    margin-top: 5px;
   }
 
-  header ul, header p.view {
-    position:static;
+  #banner { display: none;}
+  header ul {
+    display:none;
+  }
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
   }
 }
 
