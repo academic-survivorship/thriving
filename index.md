@@ -42,8 +42,8 @@
 ## Mentoring: A two-way street
 ***
 # Week 12: 
-## Publishing pipeline
-* [Presentation: The Publishing Pipeline](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
+## Peer Review
+* [Presentation: Peer Review](files/presentations/){:target="_blank"}
 
 ***
 # Week 13: 
@@ -58,6 +58,8 @@
 
 # Copyright
 All material presented is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
+<br>
+<big> Instructor resources available upon request. Email [Caroline Williams](mailto:cmw@berkeley.edu) for information. 
 
 
 
