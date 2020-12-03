@@ -49,17 +49,13 @@
 # Week 13: 
 ## CV Workshop
 
-***
-# Additional resources
-
-***
-# References
 
 
 # Copyright
 All material presented is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
 <br>
-<big> Instructor resources available upon request. Email [Caroline Williams](mailto:cmw@berkeley.edu) for information. 
+<br>
+<big><b> Instructor resources available upon request. Email [Caroline Williams](mailto:cmw@berkeley.edu) for information. </big></b>
 
 
 
