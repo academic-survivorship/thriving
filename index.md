@@ -55,7 +55,7 @@
 All material presented is copyright protected and may not be shared, uploaded, or distributed. &copy; Caroline Williams 2020, unless otherwise noted. 
 <br>
 <br>
-<big><b> Instructor resources available upon request. Email [Caroline Williams](mailto:cmw@berkeley.edu) for information. </big></b>
+<big><b> Instructor resources available upon request. Email [Caroline Williams](mailto:cmw@berkeley.edu) for information.</b>
 
 
 
