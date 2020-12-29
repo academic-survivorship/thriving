@@ -7,6 +7,8 @@
 ***
 # Week 2: 
 ## Linear flow of logic
+* [Presentation: Linear Flow of Logic](files/presentations/Week02_Bullet_Point_Outlines.pdf){:target="_blank"}
+
 ***
 # Week 3: 
 ## Effective literature searching
