@@ -43,7 +43,7 @@
 ***
 # Week 12: 
 ## Peer Review
-* [Presentation: Peer Review](files/presentations/){:target="_blank"}
+* [Presentation: Peer Review](files/presentations/Week12_PeerReview.pdf){:target="_blank"}
 
 ***
 # Week 13: 
