@@ -13,6 +13,8 @@
 ***
 # Week 4: 
 ## Developing a research plan
+* [Presentation: Developing a Resarch Plan](files/presentations/Week04_Research_Plans.pdf){:target="_blank"}
+
 ***
 # Week 5: 
 ## Effective use of figures and displays
