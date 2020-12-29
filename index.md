@@ -34,6 +34,8 @@
 ***
 # Week 9: 
 ## Building a professional network
+* [Presentation: Professional Network](files/presentations/Week09_Professional_Network.pdf){:target="_blank"}
+
 ***
 # Week 10: 
 ## Building and managing collaborations
@@ -42,7 +44,6 @@
 ***
 # Week 11: 
 ## Mentoring: A two-way street
-* [Presentation: Mentoring](files/presentations/Week11_Mentoring.pdf){:target="_blank"}
 
 ***
 # Week 12: 
