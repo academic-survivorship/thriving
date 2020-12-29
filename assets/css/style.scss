@@ -370,17 +370,56 @@ footer {
   }
 }
 
-@media print, screen and (max-height: 480px) {
-  nav {
-    display: none;
+@media print, screen and (max-width: 480px) {
+  body {
   }
 
-  footer {
-    text-align: center;
-    margin: 20px auto;
+  header{
     position: relative;
-    left:auto;
-    bottom:auto;
-    width:auto;
+    padding: 5px 0px;
+    min-height: 0px;
+
+    h1 {
+      font-size: 24px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+    }
+    
+  }
+   #banner {
+    top: 80px;
+
+    .fork {
+      float: left;
+      display: inline-block;
+      margin-left: 0px;
+    position:fixed;
+    left:20px;
+
+      }
+  }
+  section {
+    margin-top: 5px;
+  }
+
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
   }
 }
+
+.mobileShow {display: none;} 
+
+  /* Smartphone Portrait and Landscape */ 
+  @media only screen 
+    and (min-device-width : 320px) 
+    and (max-device-width : 479px){ 
+      .mobileShow {display: inline;}
+  }
