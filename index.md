@@ -1,3 +1,15 @@
+<div class="mobileShow"> 
+<b><a href="https://thrivinginacademia.github.io/grantwriting/">Home</a> 
+<br>
+<a href="https://thrivinginacademia.github.io/grantwriting/">Grant Writing</a>
+<br>
+<a href="https://thrivinginacademia.github.io/resources/">Course Resources</a>
+<br>
+Note: this website is not optimized for mobile screens. For the best experience, view in landscape mode or on a computer. </b>
+<br>
+<br>
+</div>
+
 # Course resources
 ***
 # Week 1: 
