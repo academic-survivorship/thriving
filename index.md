@@ -16,6 +16,8 @@
 ***
 # Week 5: 
 ## Effective use of figures and displays
+* [Presentation: Figures and Displays](files/presentations/Week05_Figures_and_Displays.pdf){:target="_blank"}
+
 ***
 # Week 6: 
 ## The art of scientific writing
