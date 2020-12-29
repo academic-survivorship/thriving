@@ -42,6 +42,8 @@
 ***
 # Week 11: 
 ## Mentoring: A two-way street
+* [Presentation: Mentoring](files/presentations/Week11_Mentoring.pdf){:target="_blank"}
+
 ***
 # Week 12: 
 ## Peer Review
